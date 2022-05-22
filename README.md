@@ -1,2 +1,2 @@
-# gentoo-overlay-smartgit
+# gentoo-overlay
 Remote overlay repository of Gentoo Linux
